@@ -46,5 +46,4 @@
 <a href="https://www.alibekov.dev"><img src="https://img.shields.io/badge/-alibekov.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/murat-alibekov/"><img src="https://img.shields.io/badge/-Alibekov%20Murat-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:murat.alibekov@hotmail.com"><img src="https://img.shields.io/badge/-murat.alibekov@hotmail.com-0078d4?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://steamcommunity.com/profiles/76561198054445919/"><img src="https://img.shields.io/badge/-Murat-black?style=flat&logo=Steam&logoColor=white"/></a>
 </p>
